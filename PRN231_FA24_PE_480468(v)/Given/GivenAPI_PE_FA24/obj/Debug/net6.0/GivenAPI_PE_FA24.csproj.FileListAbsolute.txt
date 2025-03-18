@@ -1,0 +1,72 @@
+D:\Learn_FPT\Semeter_8\PRN231\PE_PRN231\PE_PRN231_23_GivenSolution\PE_PRN231_23_GivenSolution\GivenAPI_PE_FA24\obj\Debug\net6.0\GivenAPI_PE_FA24.csproj.AssemblyReference.cache
+D:\Learn_FPT\Semeter_8\PRN231\PE_PRN231\PE_PRN231_23_GivenSolution\PE_PRN231_23_GivenSolution\GivenAPI_PE_FA24\obj\Debug\net6.0\GivenAPI_PE_FA24.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn_FPT\Semeter_8\PRN231\PE_PRN231\PE_PRN231_23_GivenSolution\PE_PRN231_23_GivenSolution\GivenAPI_PE_FA24\obj\Debug\net6.0\GivenAPI_PE_FA24.AssemblyInfoInputs.cache
+D:\Learn_FPT\Semeter_8\PRN231\PE_PRN231\PE_PRN231_23_GivenSolution\PE_PRN231_23_GivenSolution\GivenAPI_PE_FA24\obj\Debug\net6.0\GivenAPI_PE_FA24.AssemblyInfo.cs
+D:\Learn_FPT\Semeter_8\PRN231\PE_PRN231\PE_PRN231_23_GivenSolution\PE_PRN231_23_GivenSolution\GivenAPI_PE_FA24\obj\Debug\net6.0\GivenAPI_PE_FA24.csproj.CoreCompileInputs.cache
+D:\Learn_FPT\Semeter_8\PRN231\PE_PRN231\PE_PRN231_23_GivenSolution\PE_PRN231_23_GivenSolution\GivenAPI_PE_FA24\obj\Debug\net6.0\GivenAPI_PE_FA24.MvcApplicationPartsAssemblyInfo.cs
+D:\Learn_FPT\Semeter_8\PRN231\PE_PRN231\PE_PRN231_23_GivenSolution\PE_PRN231_23_GivenSolution\GivenAPI_PE_FA24\obj\Debug\net6.0\GivenAPI_PE_FA24.MvcApplicationPartsAssemblyInfo.cache
+D:\Learn_FPT\Semeter_8\PRN231\PE_PRN231\PE_PRN231_23_GivenSolution\PE_PRN231_23_GivenSolution\GivenAPI_PE_FA24\bin\Debug\net6.0\appsettings.Development.json
+D:\Learn_FPT\Semeter_8\PRN231\PE_PRN231\PE_PRN231_23_GivenSolution\PE_PRN231_23_GivenSolution\GivenAPI_PE_FA24\bin\Debug\net6.0\appsettings.json
+D:\Learn_FPT\Semeter_8\PRN231\PE_PRN231\PE_PRN231_23_GivenSolution\PE_PRN231_23_GivenSolution\GivenAPI_PE_FA24\bin\Debug\net6.0\GivenAPI_PE_FA24.staticwebassets.endpoints.json
+D:\Learn_FPT\Semeter_8\PRN231\PE_PRN231\PE_PRN231_23_GivenSolution\PE_PRN231_23_GivenSolution\GivenAPI_PE_FA24\bin\Debug\net6.0\GivenAPI_PE_FA24.exe
+D:\Learn_FPT\Semeter_8\PRN231\PE_PRN231\PE_PRN231_23_GivenSolution\PE_PRN231_23_GivenSolution\GivenAPI_PE_FA24\bin\Debug\net6.0\GivenAPI_PE_FA24.deps.json
+D:\Learn_FPT\Semeter_8\PRN231\PE_PRN231\PE_PRN231_23_GivenSolution\PE_PRN231_23_GivenSolution\GivenAPI_PE_FA24\bin\Debug\net6.0\GivenAPI_PE_FA24.runtimeconfig.json
+D:\Learn_FPT\Semeter_8\PRN231\PE_PRN231\PE_PRN231_23_GivenSolution\PE_PRN231_23_GivenSolution\GivenAPI_PE_FA24\bin\Debug\net6.0\GivenAPI_PE_FA24.dll
+D:\Learn_FPT\Semeter_8\PRN231\PE_PRN231\PE_PRN231_23_GivenSolution\PE_PRN231_23_GivenSolution\GivenAPI_PE_FA24\bin\Debug\net6.0\GivenAPI_PE_FA24.pdb
+D:\Learn_FPT\Semeter_8\PRN231\PE_PRN231\PE_PRN231_23_GivenSolution\PE_PRN231_23_GivenSolution\GivenAPI_PE_FA24\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Learn_FPT\Semeter_8\PRN231\PE_PRN231\PE_PRN231_23_GivenSolution\PE_PRN231_23_GivenSolution\GivenAPI_PE_FA24\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Learn_FPT\Semeter_8\PRN231\PE_PRN231\PE_PRN231_23_GivenSolution\PE_PRN231_23_GivenSolution\GivenAPI_PE_FA24\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Learn_FPT\Semeter_8\PRN231\PE_PRN231\PE_PRN231_23_GivenSolution\PE_PRN231_23_GivenSolution\GivenAPI_PE_FA24\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Learn_FPT\Semeter_8\PRN231\PE_PRN231\PE_PRN231_23_GivenSolution\PE_PRN231_23_GivenSolution\GivenAPI_PE_FA24\obj\Debug\net6.0\scopedcss\bundle\GivenAPI_PE_FA24.styles.css
+D:\Learn_FPT\Semeter_8\PRN231\PE_PRN231\PE_PRN231_23_GivenSolution\PE_PRN231_23_GivenSolution\GivenAPI_PE_FA24\obj\Debug\net6.0\staticwebassets.build.json
+D:\Learn_FPT\Semeter_8\PRN231\PE_PRN231\PE_PRN231_23_GivenSolution\PE_PRN231_23_GivenSolution\GivenAPI_PE_FA24\obj\Debug\net6.0\staticwebassets.development.json
+D:\Learn_FPT\Semeter_8\PRN231\PE_PRN231\PE_PRN231_23_GivenSolution\PE_PRN231_23_GivenSolution\GivenAPI_PE_FA24\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\Learn_FPT\Semeter_8\PRN231\PE_PRN231\PE_PRN231_23_GivenSolution\PE_PRN231_23_GivenSolution\GivenAPI_PE_FA24\obj\Debug\net6.0\staticwebassets\msbuild.GivenAPI_PE_FA24.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Learn_FPT\Semeter_8\PRN231\PE_PRN231\PE_PRN231_23_GivenSolution\PE_PRN231_23_GivenSolution\GivenAPI_PE_FA24\obj\Debug\net6.0\staticwebassets\msbuild.GivenAPI_PE_FA24.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Learn_FPT\Semeter_8\PRN231\PE_PRN231\PE_PRN231_23_GivenSolution\PE_PRN231_23_GivenSolution\GivenAPI_PE_FA24\obj\Debug\net6.0\staticwebassets\msbuild.build.GivenAPI_PE_FA24.props
+D:\Learn_FPT\Semeter_8\PRN231\PE_PRN231\PE_PRN231_23_GivenSolution\PE_PRN231_23_GivenSolution\GivenAPI_PE_FA24\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GivenAPI_PE_FA24.props
+D:\Learn_FPT\Semeter_8\PRN231\PE_PRN231\PE_PRN231_23_GivenSolution\PE_PRN231_23_GivenSolution\GivenAPI_PE_FA24\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GivenAPI_PE_FA24.props
+D:\Learn_FPT\Semeter_8\PRN231\PE_PRN231\PE_PRN231_23_GivenSolution\PE_PRN231_23_GivenSolution\GivenAPI_PE_FA24\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Learn_FPT\Semeter_8\PRN231\PE_PRN231\PE_PRN231_23_GivenSolution\PE_PRN231_23_GivenSolution\GivenAPI_PE_FA24\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\Learn_FPT\Semeter_8\PRN231\PE_PRN231\PE_PRN231_23_GivenSolution\PE_PRN231_23_GivenSolution\GivenAPI_PE_FA24\obj\Debug\net6.0\GivenAPI.D81FE09C.Up2Date
+D:\Learn_FPT\Semeter_8\PRN231\PE_PRN231\PE_PRN231_23_GivenSolution\PE_PRN231_23_GivenSolution\GivenAPI_PE_FA24\obj\Debug\net6.0\GivenAPI_PE_FA24.dll
+D:\Learn_FPT\Semeter_8\PRN231\PE_PRN231\PE_PRN231_23_GivenSolution\PE_PRN231_23_GivenSolution\GivenAPI_PE_FA24\obj\Debug\net6.0\refint\GivenAPI_PE_FA24.dll
+D:\Learn_FPT\Semeter_8\PRN231\PE_PRN231\PE_PRN231_23_GivenSolution\PE_PRN231_23_GivenSolution\GivenAPI_PE_FA24\obj\Debug\net6.0\GivenAPI_PE_FA24.pdb
+D:\Learn_FPT\Semeter_8\PRN231\PE_PRN231\PE_PRN231_23_GivenSolution\PE_PRN231_23_GivenSolution\GivenAPI_PE_FA24\obj\Debug\net6.0\GivenAPI_PE_FA24.genruntimeconfig.cache
+D:\Learn_FPT\Semeter_8\PRN231\PE_PRN231\PE_PRN231_23_GivenSolution\PE_PRN231_23_GivenSolution\GivenAPI_PE_FA24\obj\Debug\net6.0\ref\GivenAPI_PE_FA24.dll
+F:\FPT University\Semester 8\PRN231\PE\PRN231_FA24_PE_480468\Given\GivenAPI_PE_FA24\bin\Debug\net6.0\appsettings.Development.json
+F:\FPT University\Semester 8\PRN231\PE\PRN231_FA24_PE_480468\Given\GivenAPI_PE_FA24\bin\Debug\net6.0\appsettings.json
+F:\FPT University\Semester 8\PRN231\PE\PRN231_FA24_PE_480468\Given\GivenAPI_PE_FA24\bin\Debug\net6.0\GivenAPI_PE_FA24.staticwebassets.endpoints.json
+F:\FPT University\Semester 8\PRN231\PE\PRN231_FA24_PE_480468\Given\GivenAPI_PE_FA24\bin\Debug\net6.0\GivenAPI_PE_FA24.exe
+F:\FPT University\Semester 8\PRN231\PE\PRN231_FA24_PE_480468\Given\GivenAPI_PE_FA24\bin\Debug\net6.0\GivenAPI_PE_FA24.deps.json
+F:\FPT University\Semester 8\PRN231\PE\PRN231_FA24_PE_480468\Given\GivenAPI_PE_FA24\bin\Debug\net6.0\GivenAPI_PE_FA24.runtimeconfig.json
+F:\FPT University\Semester 8\PRN231\PE\PRN231_FA24_PE_480468\Given\GivenAPI_PE_FA24\bin\Debug\net6.0\GivenAPI_PE_FA24.dll
+F:\FPT University\Semester 8\PRN231\PE\PRN231_FA24_PE_480468\Given\GivenAPI_PE_FA24\bin\Debug\net6.0\GivenAPI_PE_FA24.pdb
+F:\FPT University\Semester 8\PRN231\PE\PRN231_FA24_PE_480468\Given\GivenAPI_PE_FA24\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\FPT University\Semester 8\PRN231\PE\PRN231_FA24_PE_480468\Given\GivenAPI_PE_FA24\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\FPT University\Semester 8\PRN231\PE\PRN231_FA24_PE_480468\Given\GivenAPI_PE_FA24\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\FPT University\Semester 8\PRN231\PE\PRN231_FA24_PE_480468\Given\GivenAPI_PE_FA24\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\FPT University\Semester 8\PRN231\PE\PRN231_FA24_PE_480468\Given\GivenAPI_PE_FA24\obj\Debug\net6.0\GivenAPI_PE_FA24.csproj.AssemblyReference.cache
+F:\FPT University\Semester 8\PRN231\PE\PRN231_FA24_PE_480468\Given\GivenAPI_PE_FA24\obj\Debug\net6.0\GivenAPI_PE_FA24.GeneratedMSBuildEditorConfig.editorconfig
+F:\FPT University\Semester 8\PRN231\PE\PRN231_FA24_PE_480468\Given\GivenAPI_PE_FA24\obj\Debug\net6.0\GivenAPI_PE_FA24.AssemblyInfoInputs.cache
+F:\FPT University\Semester 8\PRN231\PE\PRN231_FA24_PE_480468\Given\GivenAPI_PE_FA24\obj\Debug\net6.0\GivenAPI_PE_FA24.AssemblyInfo.cs
+F:\FPT University\Semester 8\PRN231\PE\PRN231_FA24_PE_480468\Given\GivenAPI_PE_FA24\obj\Debug\net6.0\GivenAPI_PE_FA24.csproj.CoreCompileInputs.cache
+F:\FPT University\Semester 8\PRN231\PE\PRN231_FA24_PE_480468\Given\GivenAPI_PE_FA24\obj\Debug\net6.0\GivenAPI_PE_FA24.MvcApplicationPartsAssemblyInfo.cs
+F:\FPT University\Semester 8\PRN231\PE\PRN231_FA24_PE_480468\Given\GivenAPI_PE_FA24\obj\Debug\net6.0\GivenAPI_PE_FA24.MvcApplicationPartsAssemblyInfo.cache
+F:\FPT University\Semester 8\PRN231\PE\PRN231_FA24_PE_480468\Given\GivenAPI_PE_FA24\obj\Debug\net6.0\scopedcss\bundle\GivenAPI_PE_FA24.styles.css
+F:\FPT University\Semester 8\PRN231\PE\PRN231_FA24_PE_480468\Given\GivenAPI_PE_FA24\obj\Debug\net6.0\staticwebassets.build.json
+F:\FPT University\Semester 8\PRN231\PE\PRN231_FA24_PE_480468\Given\GivenAPI_PE_FA24\obj\Debug\net6.0\staticwebassets.development.json
+F:\FPT University\Semester 8\PRN231\PE\PRN231_FA24_PE_480468\Given\GivenAPI_PE_FA24\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+F:\FPT University\Semester 8\PRN231\PE\PRN231_FA24_PE_480468\Given\GivenAPI_PE_FA24\obj\Debug\net6.0\staticwebassets\msbuild.GivenAPI_PE_FA24.Microsoft.AspNetCore.StaticWebAssets.props
+F:\FPT University\Semester 8\PRN231\PE\PRN231_FA24_PE_480468\Given\GivenAPI_PE_FA24\obj\Debug\net6.0\staticwebassets\msbuild.GivenAPI_PE_FA24.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+F:\FPT University\Semester 8\PRN231\PE\PRN231_FA24_PE_480468\Given\GivenAPI_PE_FA24\obj\Debug\net6.0\staticwebassets\msbuild.build.GivenAPI_PE_FA24.props
+F:\FPT University\Semester 8\PRN231\PE\PRN231_FA24_PE_480468\Given\GivenAPI_PE_FA24\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GivenAPI_PE_FA24.props
+F:\FPT University\Semester 8\PRN231\PE\PRN231_FA24_PE_480468\Given\GivenAPI_PE_FA24\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GivenAPI_PE_FA24.props
+F:\FPT University\Semester 8\PRN231\PE\PRN231_FA24_PE_480468\Given\GivenAPI_PE_FA24\obj\Debug\net6.0\staticwebassets.pack.json
+F:\FPT University\Semester 8\PRN231\PE\PRN231_FA24_PE_480468\Given\GivenAPI_PE_FA24\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+F:\FPT University\Semester 8\PRN231\PE\PRN231_FA24_PE_480468\Given\GivenAPI_PE_FA24\obj\Debug\net6.0\GivenAPI.D81FE09C.Up2Date
+F:\FPT University\Semester 8\PRN231\PE\PRN231_FA24_PE_480468\Given\GivenAPI_PE_FA24\obj\Debug\net6.0\GivenAPI_PE_FA24.dll
+F:\FPT University\Semester 8\PRN231\PE\PRN231_FA24_PE_480468\Given\GivenAPI_PE_FA24\obj\Debug\net6.0\refint\GivenAPI_PE_FA24.dll
+F:\FPT University\Semester 8\PRN231\PE\PRN231_FA24_PE_480468\Given\GivenAPI_PE_FA24\obj\Debug\net6.0\GivenAPI_PE_FA24.pdb
+F:\FPT University\Semester 8\PRN231\PE\PRN231_FA24_PE_480468\Given\GivenAPI_PE_FA24\obj\Debug\net6.0\GivenAPI_PE_FA24.genruntimeconfig.cache
+F:\FPT University\Semester 8\PRN231\PE\PRN231_FA24_PE_480468\Given\GivenAPI_PE_FA24\obj\Debug\net6.0\ref\GivenAPI_PE_FA24.dll

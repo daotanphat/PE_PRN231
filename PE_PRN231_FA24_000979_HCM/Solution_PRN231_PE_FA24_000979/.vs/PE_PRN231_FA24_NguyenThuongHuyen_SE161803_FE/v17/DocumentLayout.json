@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\adsp\\PRN231\\Prepare\\PE_PRN231_FA24_NguyenThuongHuyen_SE161803_FE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E5EB85D-169D-4E32-B820-6CAB29879B90}|PE_PRN231_FA24_NguyenThuongHuyen_SE161803_FE\\PE_PRN231_FA24_NguyenThuongHuyen_SE161803_FE.csproj|d:\\adsp\\prn231\\prepare\\pe_prn231_fa24_nguyenthuonghuyen_se161803_fe\\pe_prn231_fa24_nguyenthuonghuyen_se161803_fe\\pages\\cosmetics.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E5EB85D-169D-4E32-B820-6CAB29879B90}|PE_PRN231_FA24_NguyenThuongHuyen_SE161803_FE\\PE_PRN231_FA24_NguyenThuongHuyen_SE161803_FE.csproj|solutionrelative:pe_prn231_fa24_nguyenthuonghuyen_se161803_fe\\pages\\cosmetics.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E5EB85D-169D-4E32-B820-6CAB29879B90}|PE_PRN231_FA24_NguyenThuongHuyen_SE161803_FE\\PE_PRN231_FA24_NguyenThuongHuyen_SE161803_FE.csproj|d:\\adsp\\prn231\\prepare\\pe_prn231_fa24_nguyenthuonghuyen_se161803_fe\\pe_prn231_fa24_nguyenthuonghuyen_se161803_fe\\pages\\cosmetics.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E5EB85D-169D-4E32-B820-6CAB29879B90}|PE_PRN231_FA24_NguyenThuongHuyen_SE161803_FE\\PE_PRN231_FA24_NguyenThuongHuyen_SE161803_FE.csproj|solutionrelative:pe_prn231_fa24_nguyenthuonghuyen_se161803_fe\\pages\\cosmetics.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E5EB85D-169D-4E32-B820-6CAB29879B90}|PE_PRN231_FA24_NguyenThuongHuyen_SE161803_FE\\PE_PRN231_FA24_NguyenThuongHuyen_SE161803_FE.csproj|d:\\adsp\\prn231\\prepare\\pe_prn231_fa24_nguyenthuonghuyen_se161803_fe\\pe_prn231_fa24_nguyenthuonghuyen_se161803_fe\\pages\\editcosmetic.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E5EB85D-169D-4E32-B820-6CAB29879B90}|PE_PRN231_FA24_NguyenThuongHuyen_SE161803_FE\\PE_PRN231_FA24_NguyenThuongHuyen_SE161803_FE.csproj|solutionrelative:pe_prn231_fa24_nguyenthuonghuyen_se161803_fe\\pages\\editcosmetic.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E5EB85D-169D-4E32-B820-6CAB29879B90}|PE_PRN231_FA24_NguyenThuongHuyen_SE161803_FE\\PE_PRN231_FA24_NguyenThuongHuyen_SE161803_FE.csproj|d:\\adsp\\prn231\\prepare\\pe_prn231_fa24_nguyenthuonghuyen_se161803_fe\\pe_prn231_fa24_nguyenthuonghuyen_se161803_fe\\pages\\editcosmetic.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E5EB85D-169D-4E32-B820-6CAB29879B90}|PE_PRN231_FA24_NguyenThuongHuyen_SE161803_FE\\PE_PRN231_FA24_NguyenThuongHuyen_SE161803_FE.csproj|solutionrelative:pe_prn231_fa24_nguyenthuonghuyen_se161803_fe\\pages\\editcosmetic.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E5EB85D-169D-4E32-B820-6CAB29879B90}|PE_PRN231_FA24_NguyenThuongHuyen_SE161803_FE\\PE_PRN231_FA24_NguyenThuongHuyen_SE161803_FE.csproj|d:\\adsp\\prn231\\prepare\\pe_prn231_fa24_nguyenthuonghuyen_se161803_fe\\pe_prn231_fa24_nguyenthuonghuyen_se161803_fe\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E5EB85D-169D-4E32-B820-6CAB29879B90}|PE_PRN231_FA24_NguyenThuongHuyen_SE161803_FE\\PE_PRN231_FA24_NguyenThuongHuyen_SE161803_FE.csproj|solutionrelative:pe_prn231_fa24_nguyenthuonghuyen_se161803_fe\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E5EB85D-169D-4E32-B820-6CAB29879B90}|PE_PRN231_FA24_NguyenThuongHuyen_SE161803_FE\\PE_PRN231_FA24_NguyenThuongHuyen_SE161803_FE.csproj|d:\\adsp\\prn231\\prepare\\pe_prn231_fa24_nguyenthuonghuyen_se161803_fe\\pe_prn231_fa24_nguyenthuonghuyen_se161803_fe\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E5EB85D-169D-4E32-B820-6CAB29879B90}|PE_PRN231_FA24_NguyenThuongHuyen_SE161803_FE\\PE_PRN231_FA24_NguyenThuongHuyen_SE161803_FE.csproj|solutionrelative:pe_prn231_fa24_nguyenthuonghuyen_se161803_fe\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditCosmetic.cshtml",
+              "DocumentMoniker": "D:\\adsp\\PRN231\\Prepare\\PE_PRN231_FA24_NguyenThuongHuyen_SE161803_FE\\PE_PRN231_FA24_NguyenThuongHuyen_SE161803_FE\\Pages\\EditCosmetic.cshtml",
+              "RelativeDocumentMoniker": "PE_PRN231_FA24_NguyenThuongHuyen_SE161803_FE\\Pages\\EditCosmetic.cshtml",
+              "ToolTip": "D:\\adsp\\PRN231\\Prepare\\PE_PRN231_FA24_NguyenThuongHuyen_SE161803_FE\\PE_PRN231_FA24_NguyenThuongHuyen_SE161803_FE\\Pages\\EditCosmetic.cshtml",
+              "RelativeToolTip": "PE_PRN231_FA24_NguyenThuongHuyen_SE161803_FE\\Pages\\EditCosmetic.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T01:53:40.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditCosmetic.cshtml.cs",
+              "DocumentMoniker": "D:\\adsp\\PRN231\\Prepare\\PE_PRN231_FA24_NguyenThuongHuyen_SE161803_FE\\PE_PRN231_FA24_NguyenThuongHuyen_SE161803_FE\\Pages\\EditCosmetic.cshtml.cs",
+              "RelativeDocumentMoniker": "PE_PRN231_FA24_NguyenThuongHuyen_SE161803_FE\\Pages\\EditCosmetic.cshtml.cs",
+              "ToolTip": "D:\\adsp\\PRN231\\Prepare\\PE_PRN231_FA24_NguyenThuongHuyen_SE161803_FE\\PE_PRN231_FA24_NguyenThuongHuyen_SE161803_FE\\Pages\\EditCosmetic.cshtml.cs",
+              "RelativeToolTip": "PE_PRN231_FA24_NguyenThuongHuyen_SE161803_FE\\Pages\\EditCosmetic.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T01:53:39.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\adsp\\PRN231\\Prepare\\PE_PRN231_FA24_NguyenThuongHuyen_SE161803_FE\\PE_PRN231_FA24_NguyenThuongHuyen_SE161803_FE\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "PE_PRN231_FA24_NguyenThuongHuyen_SE161803_FE\\Pages\\Login.cshtml",
+              "ToolTip": "D:\\adsp\\PRN231\\Prepare\\PE_PRN231_FA24_NguyenThuongHuyen_SE161803_FE\\PE_PRN231_FA24_NguyenThuongHuyen_SE161803_FE\\Pages\\Login.cshtml",
+              "RelativeToolTip": "PE_PRN231_FA24_NguyenThuongHuyen_SE161803_FE\\Pages\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T01:53:32.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "D:\\adsp\\PRN231\\Prepare\\PE_PRN231_FA24_NguyenThuongHuyen_SE161803_FE\\PE_PRN231_FA24_NguyenThuongHuyen_SE161803_FE\\Pages\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "PE_PRN231_FA24_NguyenThuongHuyen_SE161803_FE\\Pages\\Login.cshtml.cs",
+              "ToolTip": "D:\\adsp\\PRN231\\Prepare\\PE_PRN231_FA24_NguyenThuongHuyen_SE161803_FE\\PE_PRN231_FA24_NguyenThuongHuyen_SE161803_FE\\Pages\\Login.cshtml.cs",
+              "RelativeToolTip": "PE_PRN231_FA24_NguyenThuongHuyen_SE161803_FE\\Pages\\Login.cshtml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAmwEcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T01:52:36.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:20:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:28:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cosmetics.cshtml",
+              "DocumentMoniker": "D:\\adsp\\PRN231\\Prepare\\PE_PRN231_FA24_NguyenThuongHuyen_SE161803_FE\\PE_PRN231_FA24_NguyenThuongHuyen_SE161803_FE\\Pages\\Cosmetics.cshtml",
+              "RelativeDocumentMoniker": "PE_PRN231_FA24_NguyenThuongHuyen_SE161803_FE\\Pages\\Cosmetics.cshtml",
+              "ToolTip": "D:\\adsp\\PRN231\\Prepare\\PE_PRN231_FA24_NguyenThuongHuyen_SE161803_FE\\PE_PRN231_FA24_NguyenThuongHuyen_SE161803_FE\\Pages\\Cosmetics.cshtml",
+              "RelativeToolTip": "PE_PRN231_FA24_NguyenThuongHuyen_SE161803_FE\\Pages\\Cosmetics.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T01:52:00.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cosmetics.cshtml.cs",
+              "DocumentMoniker": "D:\\adsp\\PRN231\\Prepare\\PE_PRN231_FA24_NguyenThuongHuyen_SE161803_FE\\PE_PRN231_FA24_NguyenThuongHuyen_SE161803_FE\\Pages\\Cosmetics.cshtml.cs",
+              "RelativeDocumentMoniker": "PE_PRN231_FA24_NguyenThuongHuyen_SE161803_FE\\Pages\\Cosmetics.cshtml.cs",
+              "ToolTip": "D:\\adsp\\PRN231\\Prepare\\PE_PRN231_FA24_NguyenThuongHuyen_SE161803_FE\\PE_PRN231_FA24_NguyenThuongHuyen_SE161803_FE\\Pages\\Cosmetics.cshtml.cs",
+              "RelativeToolTip": "PE_PRN231_FA24_NguyenThuongHuyen_SE161803_FE\\Pages\\Cosmetics.cshtml.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowDgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T01:51:03.019Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

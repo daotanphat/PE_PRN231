@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "QDyXftO7M0kS3myIP3HNbg3WWJ4pgjTO2Q4kXwMtwbw=",
+  "Source": "GivenAPI_PE_FA24",
+  "BasePath": "_content/GivenAPI_PE_FA24",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

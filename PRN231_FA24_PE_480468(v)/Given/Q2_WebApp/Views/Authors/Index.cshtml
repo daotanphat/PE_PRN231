@@ -1,0 +1,43 @@
+﻿@model IEnumerable<Q2_WebApp.DTOs.AuthorResponse>
+
+@{
+	ViewData["Title"] = "Author List";
+}
+
+<h1>Authors And Their Books</h1>
+
+<a class="btn btn-primary mb-3" asp-action="Create">Add New Author</a>
+
+<table class="table table-bordered">
+	<thead class="thead-light">
+		<tr>
+			<th scope="col">Author</th>
+			<th scope="col">Bio</th>
+			<th scope="col">Books</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var author in Model)
+		{
+			<tr>
+				<td scope="row">@author.Name</td>
+				<td scope="row">@author.Bio</td>
+				<td scope="row">
+					@if (author.Books != null && author.Books.Any())
+					{
+						<ul>
+							@foreach (var book in author.Books)
+							{
+								<li>@book.Title (@book.Publisher, @book.PublicationYear)</li>
+							}
+						</ul>
+					}
+					else
+					{
+						<span>No books assigned.</span>
+					}
+				</td>
+			</tr>
+		}
+	</tbody>
+</table>

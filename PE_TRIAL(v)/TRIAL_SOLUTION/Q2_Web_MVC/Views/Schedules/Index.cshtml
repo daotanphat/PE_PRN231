@@ -1,0 +1,72 @@
+﻿@model IEnumerable<Q2_API.Models.Schedule>
+@using Q2_API.Models;
+@{
+	ViewData["Title"] = "Index";
+}
+
+<style>
+	table {
+		border-collapse: collapse;
+	}
+
+	th, td {
+		border: 1px solid black;
+	}
+</style>
+
+<form asp-controller="Schedules" asp-action="Index" method="get">
+	<input type="date" name="dateSchedule" value="@((ViewData["date"] as DateTime?)?.ToString("yyyy-MM-dd"))" />
+	<input type="submit" />
+</form>
+
+<h1>Screening schedule on @((ViewData["date"] as DateTime?)?.ToString("yyyy-MM-dd"))</h1>
+
+@if (Model != null && Model.Any())
+{
+	<table>
+		<thead>
+			<tr>
+				<th></th>
+				@foreach (Room room in ViewBag.Rooms)
+				{
+					<th>
+						@room.Title
+					</th>
+				}
+			</tr>
+		</thead>
+		<tbody>
+			@foreach (TimeSlot timeSlot in ViewBag.TimeSlots)
+			{
+				<tr>
+					<td>
+						@timeSlot.StartTime - @timeSlot.EndTime
+					</td>
+					@foreach (Room room in ViewBag.Rooms)
+					{
+						bool foundMovie = false;
+						@foreach (var movieName in Model)
+						{
+							if (movieName.TimeSlotId == timeSlot.Id && movieName.RoomId == room.Id)
+							{
+								<td>
+									@movieName.Movie.Title
+								</td>
+								foundMovie = true;
+								break;
+							}
+						}
+						if (!foundMovie)
+						{
+							<td></td>
+						}
+					}
+				</tr>
+			}
+		</tbody>
+	</table>
+}
+else
+{
+	<p>No schedules available for the selected date.</p>
+}

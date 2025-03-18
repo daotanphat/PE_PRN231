@@ -1,0 +1,51 @@
+﻿@page
+@model PE_PRN231_FA24_NguyenThuongHuyen_SE161803_FE.Pages.CosmeticsModel
+@{
+    ViewData["Title"] = "Cosmetic List";
+}
+
+<h2>Cosmetic List</h2>
+
+@if (!string.IsNullOrEmpty(Model.ErrorMessage))
+{
+    <p class="text-danger">@Model.ErrorMessage</p>
+}
+
+@if (Model.UserRole == "Administrator" || Model.UserRole == "Staff" || Model.UserRole == "Manager")
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Cosmetic Name</th>
+                <th>Size</th>
+                <th>Skin Type</th>
+                <th>Price</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.CosmeticList)
+            {
+                <tr>
+                    <td>@item.CosmeticName</td>
+                    <td>@item.CosmeticSize</td>
+                    <td>@item.SkinType</td>
+                    <td>@item.DollarPrice</td>
+                    <td>
+                        <a asp-page="EditCosmetic" asp-route-id="@item.CosmeticId" class="btn btn-primary">Edit</a>
+                        @if (Model.UserRole == "Administrator")
+                        {
+                            <form method="post" asp-page-handler="Delete" asp-route-id="@item.CosmeticId" style="display:inline;" onsubmit="return confirm('Are you sure you want to delete this item?');">
+                                <button type="submit" class="btn btn-danger">Delete</button>
+                            </form>
+                        }
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>You do not have permission to view this content.</p>
+}

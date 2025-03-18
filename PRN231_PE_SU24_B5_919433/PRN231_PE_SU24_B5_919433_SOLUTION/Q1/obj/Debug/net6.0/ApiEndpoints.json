@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "Q1.Controllers.MovieController",
+    "Method": "GetAllMovies",
+    "RelativePath": "api/Movie/GetAllMovies",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Q1.Controllers.MovieController",
+    "Method": "GetAllMoviesByGenre",
+    "RelativePath": "api/Movie/GetAllMoviesByGenre/{genre}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "genre",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Q1.Controllers.ScheduleController",
+    "Method": "Add",
+    "RelativePath": "api/Schedule",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Q1.DTOs.CreateSchedule",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,31 @@
+﻿@page
+@model PE_PRN231_FA24_NguyenThuongHuyen_SE161803_FE.Pages.EditCosmeticModel
+@{
+    ViewData["Title"] = Model.IsNew ? "Create Cosmetic" : "Edit Cosmetic";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form method="post">
+    <div>
+        <label>Cosmetic Name</label>
+        <input type="text" asp-for="Cosmetic.CosmeticName" required />
+    </div>
+    <div>
+        <label>Size</label>
+        <input type="text" asp-for="Cosmetic.CosmeticSize" required />
+    </div>
+    <div>
+        <label>Skin Type</label>
+        <input type="text" asp-for="Cosmetic.SkinType" required />
+    </div>
+    <div>
+        <label>Price</label>
+        <input type="number" asp-for="Cosmetic.DollarPrice" step="0.01" required />
+    </div>
+    <div>
+        <label>Category</label>
+        <select asp-for="Cosmetic.CategoryId" asp-items="Model.CategoryOptions"></select>
+    </div>
+    <button type="submit">Save</button>
+</form>

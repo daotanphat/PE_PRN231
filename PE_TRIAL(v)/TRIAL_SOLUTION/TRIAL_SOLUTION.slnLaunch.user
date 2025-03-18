@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Q2_API\\Q2_API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Q2_Web_MVC\\Q2_Web_MVC.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

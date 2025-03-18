@@ -1,0 +1,46 @@
+﻿@model IEnumerable<Q2_API.Models.EmployeeProject>
+@{
+	ViewData["Title"] = "Employee With Project";
+}
+<table class="table table-bordered table-stiped">
+	<thead class="thead-light">
+		<tr>
+			<th scope="col"></th>
+			@foreach (var project in ViewBag.Projects)
+			{
+				<th scope="col">@project.ProjectName</th>
+			}
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var employee in ViewBag.Employees)
+		{
+			<tr>
+				<td scope="row">@employee.Name</td>
+				@foreach (var project in ViewBag.Projects)
+				{
+					bool found = false;
+					@foreach (var empProject in Model)
+					{
+						if (empProject.ProjectId == project.ProjectId && empProject.EmployeeId == employee.EmployeeId)
+						{
+							<td>
+								<ul style="list-style-type: none; padding-left: 0;">
+									<li>Role: @empProject.Role</li>
+									<li>JoinDate: @(empProject.JoinDate?.ToShortDateString() ?? "No info")</li>
+									<li>LeaveDate: @(empProject.LeaveDate?.ToShortDateString() ?? "No info")</li>
+								</ul>
+							</td>
+							found = true;
+							break;
+						}
+					}
+					@if (!found)
+					{
+						<td></td>
+					}
+				}
+			</tr>
+		}
+	</tbody>
+</table>
