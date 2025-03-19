@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\FPT University\\Semester 8\\PRN231\\PE\\PRN231_FA24_B5_PE\\PRN231_FA24_B5_PE_SOLUTION\\Q1\\Q1.csproj": {}
+    "F:\\FPT University\\Semester 8\\PRN231\\PE\\PRN231_FA24_B5_PE(v)\\PRN231_FA24_B5_PE_SOLUTION\\Q1\\Q1.csproj": {}
   },
   "projects": {
-    "F:\\FPT University\\Semester 8\\PRN231\\PE\\PRN231_FA24_B5_PE\\PRN231_FA24_B5_PE_SOLUTION\\Q1\\Q1.csproj": {
+    "F:\\FPT University\\Semester 8\\PRN231\\PE\\PRN231_FA24_B5_PE(v)\\PRN231_FA24_B5_PE_SOLUTION\\Q1\\Q1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\FPT University\\Semester 8\\PRN231\\PE\\PRN231_FA24_B5_PE\\PRN231_FA24_B5_PE_SOLUTION\\Q1\\Q1.csproj",
+        "projectUniqueName": "F:\\FPT University\\Semester 8\\PRN231\\PE\\PRN231_FA24_B5_PE(v)\\PRN231_FA24_B5_PE_SOLUTION\\Q1\\Q1.csproj",
         "projectName": "Q1",
-        "projectPath": "F:\\FPT University\\Semester 8\\PRN231\\PE\\PRN231_FA24_B5_PE\\PRN231_FA24_B5_PE_SOLUTION\\Q1\\Q1.csproj",
+        "projectPath": "F:\\FPT University\\Semester 8\\PRN231\\PE\\PRN231_FA24_B5_PE(v)\\PRN231_FA24_B5_PE_SOLUTION\\Q1\\Q1.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "F:\\FPT University\\Semester 8\\PRN231\\PE\\PRN231_FA24_B5_PE\\PRN231_FA24_B5_PE_SOLUTION\\Q1\\obj\\",
+        "outputPath": "F:\\FPT University\\Semester 8\\PRN231\\PE\\PRN231_FA24_B5_PE(v)\\PRN231_FA24_B5_PE_SOLUTION\\Q1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

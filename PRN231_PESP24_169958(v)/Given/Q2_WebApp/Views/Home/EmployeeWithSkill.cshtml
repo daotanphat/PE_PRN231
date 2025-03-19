@@ -1,0 +1,46 @@
+﻿@model IEnumerable<Q2_API.Models.EmployeeSkill>
+
+@{
+	ViewData["Title"] = "Employee With Skills";
+}
+<table class="table table-bordered table-striped">
+	<thead class="thead-light">
+		<tr>
+			<th scope="col"></th>
+			@foreach (var skill in ViewBag.Skills)
+			{
+				<th scope="col">@skill.SkillName</th>
+			}
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var employee in ViewBag.Employees)
+		{
+			<tr>
+				<td scope="row"><strong>@employee.Name</strong></td>
+				@foreach (var skill in ViewBag.Skills)
+				{
+					bool found = false;
+					@foreach (var item in Model)
+					{
+						if (item.EmployeeId == employee.EmployeeId && item.SkillId == skill.SkillId)
+						{
+							<td scope="row">
+								<ul style="list-style-type: none; padding-left: 0;">
+									<li>ProficiencyLevel: @(item.ProficiencyLevel)</li>
+									<li>AcquireDate: @(item.AcquiredDate?.ToShortDateString() ?? "No Info")</li>
+								</ul>
+							</td>
+							found = true;
+							break;
+						}
+					}
+					if (!found)
+					{
+						<td scope="row"></td>
+					}
+				}
+			</tr>
+		}
+	</tbody>
+</table>
