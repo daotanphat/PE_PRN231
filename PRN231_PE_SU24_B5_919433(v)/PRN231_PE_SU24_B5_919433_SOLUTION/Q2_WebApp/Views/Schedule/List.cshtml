@@ -1,0 +1,54 @@
+﻿@model List<GivenAPIs.Models.Schedule>
+@{
+	ViewData["Title"] = "Screening Schedule";
+}
+<div>
+	<form action="/Schedule/List" method="get">
+		<input type="date" name="date" value="@ViewData["date"]" />
+		<button type="submit">Get Schedule</button>
+	</form>
+</div>
+<h1>Screening schedule on @ViewData["date"]</h1>
+<table class="table table-bordered table-striped">
+	<thead class="thead-light">
+		<tr>
+			<th scope="col"></th>
+			@foreach (var room in ViewBag.Rooms)
+			{
+				<th scope="col">@room.Title</th>
+			}
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var timeSlot in ViewBag.TimeSlots)
+		{
+			<tr>
+				<td scope="row">@timeSlot.StartTime - @timeSlot.EndTime</td>
+				@foreach (var room in ViewBag.Rooms)
+				{
+					bool found = false;
+					@foreach (var item in Model)
+					{
+						if (item.RoomId == room.Id && item.TimeSlotId == timeSlot.Id)
+						{
+							@foreach (var movie in ViewBag.Movies)
+							{
+								if (movie.Id == item.MovieId)
+								{
+									<td scope="row">@movie.Title</td>
+									found = true;
+									break;
+								}
+							}
+							break;
+						}
+					}
+					@if (!found)
+					{
+						<td></td>
+					}
+				}
+			</tr>
+		}
+	</tbody>
+</table>

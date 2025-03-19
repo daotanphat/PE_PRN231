@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.OData.Query;
 using Microsoft.EntityFrameworkCore;
 using Q1.Models;
 
@@ -14,6 +15,7 @@ namespace Q1.Controllers
 		{
 			_context = context;
 		}
+		[EnableQuery]
 		[HttpGet("GetAllMovies")]
 		public async Task<IActionResult> GetAllMovies()
 		{

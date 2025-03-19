@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "F:\\FPT University\\Semester 8\\PRN231\\PE\\PE_TRIAL(v)\\TRIAL_SOLUTION\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76777B14-CF9C-4759-AF3C-D9A0E2330FC0}|Q2_Web_MVC\\Q2_Web_MVC.csproj|f:\\fpt university\\semester 8\\prn231\\pe\\pe_trial(v)\\trial_solution\\q2_web_mvc\\views\\schedules\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76777B14-CF9C-4759-AF3C-D9A0E2330FC0}|Q2_Web_MVC\\Q2_Web_MVC.csproj|solutionrelative:q2_web_mvc\\views\\schedules\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 124,
           "Children": [
             {
               "$type": "Bookmark",
@@ -506,6 +511,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:68:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\FPT University\\Semester 8\\PRN231\\PE\\PE_TRIAL(v)\\TRIAL_SOLUTION\\Q2_Web_MVC\\Views\\Schedules\\Index.cshtml",
+              "RelativeDocumentMoniker": "Q2_Web_MVC\\Views\\Schedules\\Index.cshtml",
+              "ToolTip": "F:\\FPT University\\Semester 8\\PRN231\\PE\\PE_TRIAL(v)\\TRIAL_SOLUTION\\Q2_Web_MVC\\Views\\Schedules\\Index.cshtml",
+              "RelativeToolTip": "Q2_Web_MVC\\Views\\Schedules\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAC4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-19T09:20:16.357Z",
+              "EditorCaption": ""
             }
           ]
         },

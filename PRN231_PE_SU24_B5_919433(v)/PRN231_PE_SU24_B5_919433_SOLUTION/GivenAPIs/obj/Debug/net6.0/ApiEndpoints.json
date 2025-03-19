@@ -1,0 +1,48 @@
+[
+  {
+    "ContainingType": "GivenAPIs.Controllers.MovieController",
+    "Method": "List",
+    "RelativePath": "api/Movie/List",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GivenAPIs.Controllers.RoomController",
+    "Method": "List",
+    "RelativePath": "api/Room/List",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GivenAPIs.Controllers.ScheduleController",
+    "Method": "List",
+    "RelativePath": "api/Schedule/List/{date}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "date",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GivenAPIs.Controllers.TimeSlotController",
+    "Method": "List",
+    "RelativePath": "api/TimeSlot/List",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vZCrmu3JPVw=",
+  "dgSpecHash": "bCkWZlGqM74=",
   "success": true,
-  "projectFilePath": "F:\\FPT University\\Semester 8\\PRN231\\PE\\PRN231_PE_SU24_B5_919433\\PRN231_PE_SU24_B5_919433_SOLUTION\\Q1\\Q1.csproj",
+  "projectFilePath": "F:\\FPT University\\Semester 8\\PRN231\\PE\\PRN231_PE_SU24_B5_919433(v)\\PRN231_PE_SU24_B5_919433_SOLUTION\\Q1\\Q1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

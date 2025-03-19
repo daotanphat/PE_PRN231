@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{76777B14-CF9C-4759-AF3C-D9A0E2330FC0}|Q2_Web_MVC\\Q2_Web_MVC.csproj|f:\\fpt university\\semester 8\\prn231\\pe\\pe_trial(v)\\trial_solution\\q2_web_mvc\\views\\schedules\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{76777B14-CF9C-4759-AF3C-D9A0E2330FC0}|Q2_Web_MVC\\Q2_Web_MVC.csproj|solutionrelative:q2_web_mvc\\views\\schedules\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76777B14-CF9C-4759-AF3C-D9A0E2330FC0}|Q2_Web_MVC\\Q2_Web_MVC.csproj|f:\\fpt university\\semester 8\\prn231\\pe\\pe_trial(v)\\trial_solution\\q2_web_mvc\\controllers\\schedulescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76777B14-CF9C-4759-AF3C-D9A0E2330FC0}|Q2_Web_MVC\\Q2_Web_MVC.csproj|solutionrelative:q2_web_mvc\\controllers\\schedulescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -524,22 +520,9 @@
               "RelativeDocumentMoniker": "Q2_Web_MVC\\Views\\Schedules\\Index.cshtml",
               "ToolTip": "F:\\FPT University\\Semester 8\\PRN231\\PE\\PE_TRIAL(v)\\TRIAL_SOLUTION\\Q2_Web_MVC\\Views\\Schedules\\Index.cshtml",
               "RelativeToolTip": "Q2_Web_MVC\\Views\\Schedules\\Index.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAADEAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-17T17:48:41.733Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SchedulesController.cs",
-              "DocumentMoniker": "F:\\FPT University\\Semester 8\\PRN231\\PE\\PE_TRIAL(v)\\TRIAL_SOLUTION\\Q2_Web_MVC\\Controllers\\SchedulesController.cs",
-              "RelativeDocumentMoniker": "Q2_Web_MVC\\Controllers\\SchedulesController.cs",
-              "ToolTip": "F:\\FPT University\\Semester 8\\PRN231\\PE\\PE_TRIAL(v)\\TRIAL_SOLUTION\\Q2_Web_MVC\\Controllers\\SchedulesController.cs",
-              "RelativeToolTip": "Q2_Web_MVC\\Controllers\\SchedulesController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwBMAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T17:32:31.528Z",
+              "WhenOpened": "2025-03-19T09:20:16.357Z",
               "EditorCaption": ""
             }
           ]

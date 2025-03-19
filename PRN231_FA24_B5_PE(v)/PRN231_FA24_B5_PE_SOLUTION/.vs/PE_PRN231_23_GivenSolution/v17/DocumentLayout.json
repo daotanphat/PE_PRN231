@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "F:\\FPT University\\Semester 8\\PRN231\\PE\\PRN231_FA24_B5_PE(v)\\PRN231_FA24_B5_PE_SOLUTION\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C4D894E0-9673-4C73-AD7C-D3724D5F0C14}|Q2\\Q2.csproj|f:\\fpt university\\semester 8\\prn231\\pe\\prn231_fa24_b5_pe(v)\\prn231_fa24_b5_pe_solution\\q2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C4D894E0-9673-4C73-AD7C-D3724D5F0C14}|Q2\\Q2.csproj|solutionrelative:q2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{C4D894E0-9673-4C73-AD7C-D3724D5F0C14}|Q2\\Q2.csproj|f:\\fpt university\\semester 8\\prn231\\pe\\prn231_fa24_b5_pe(v)\\prn231_fa24_b5_pe_solution\\q2\\views\\home\\employeewithproject.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4D894E0-9673-4C73-AD7C-D3724D5F0C14}|Q2\\Q2.csproj|solutionrelative:q2\\views\\home\\employeewithproject.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C4D894E0-9673-4C73-AD7C-D3724D5F0C14}|Q2\\Q2.csproj|f:\\fpt university\\semester 8\\prn231\\pe\\prn231_fa24_b5_pe(v)\\prn231_fa24_b5_pe_solution\\q2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4D894E0-9673-4C73-AD7C-D3724D5F0C14}|Q2\\Q2.csproj|solutionrelative:q2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4D894E0-9673-4C73-AD7C-D3724D5F0C14}|Q2\\Q2.csproj|f:\\fpt university\\semester 8\\prn231\\pe\\prn231_fa24_b5_pe(v)\\prn231_fa24_b5_pe_solution\\q2\\views\\home\\employeewithproject.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C4D894E0-9673-4C73-AD7C-D3724D5F0C14}|Q2\\Q2.csproj|solutionrelative:q2\\views\\home\\employeewithproject.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C4D894E0-9673-4C73-AD7C-D3724D5F0C14}|Q2\\Q2.csproj|f:\\fpt university\\semester 8\\prn231\\pe\\prn231_fa24_b5_pe(v)\\prn231_fa24_b5_pe_solution\\q2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 124,
+          "SelectedChildIndex": 125,
           "Children": [
             {
               "$type": "Bookmark",
@@ -526,19 +522,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "F:\\FPT University\\Semester 8\\PRN231\\PE\\PRN231_FA24_B5_PE(v)\\PRN231_FA24_B5_PE_SOLUTION\\Q2\\appsettings.json",
-              "RelativeDocumentMoniker": "Q2\\appsettings.json",
-              "ToolTip": "F:\\FPT University\\Semester 8\\PRN231\\PE\\PRN231_FA24_B5_PE(v)\\PRN231_FA24_B5_PE_SOLUTION\\Q2\\appsettings.json",
-              "RelativeToolTip": "Q2\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-18T16:38:37.492Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\FPT University\\Semester 8\\PRN231\\PE\\PRN231_FA24_B5_PE(v)\\PRN231_FA24_B5_PE_SOLUTION\\Q2\\Program.cs",
@@ -552,20 +535,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "EmployeeWithProject.cshtml",
               "DocumentMoniker": "F:\\FPT University\\Semester 8\\PRN231\\PE\\PRN231_FA24_B5_PE(v)\\PRN231_FA24_B5_PE_SOLUTION\\Q2\\Views\\Home\\EmployeeWithProject.cshtml",
               "RelativeDocumentMoniker": "Q2\\Views\\Home\\EmployeeWithProject.cshtml",
               "ToolTip": "F:\\FPT University\\Semester 8\\PRN231\\PE\\PRN231_FA24_B5_PE(v)\\PRN231_FA24_B5_PE_SOLUTION\\Q2\\Views\\Home\\EmployeeWithProject.cshtml",
               "RelativeToolTip": "Q2\\Views\\Home\\EmployeeWithProject.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwC0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-18T07:36:25.014Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
               "DocumentMoniker": "F:\\FPT University\\Semester 8\\PRN231\\PE\\PRN231_FA24_B5_PE(v)\\PRN231_FA24_B5_PE_SOLUTION\\Q2\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Q2\\Controllers\\HomeController.cs",
