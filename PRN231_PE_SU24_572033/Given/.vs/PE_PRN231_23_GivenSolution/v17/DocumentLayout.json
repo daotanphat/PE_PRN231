@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "F:\\FPT University\\Semester 8\\PRN231\\PE\\PRN231_PE_SU24_572033\\Given\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|f:\\fpt university\\semester 8\\prn231\\pe\\prn231_pe_su24_572033\\given\\q1\\q1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|solutionrelative:q1\\q1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|f:\\fpt university\\semester 8\\prn231\\pe\\prn231_pe_su24_572033\\given\\q1\\controller\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3A2DC15-6918-43A7-9133-D6511FB7069C}|Q1\\Q1.csproj|solutionrelative:q1\\controller\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -515,14 +515,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Q1",
-              "DocumentMoniker": "F:\\FPT University\\Semester 8\\PRN231\\PE\\PRN231_PE_SU24_572033\\Given\\Q1\\Q1.csproj",
-              "RelativeDocumentMoniker": "Q1\\Q1.csproj",
-              "ToolTip": "F:\\FPT University\\Semester 8\\PRN231\\PE\\PRN231_PE_SU24_572033\\Given\\Q1\\Q1.csproj",
-              "RelativeToolTip": "Q1\\Q1.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-16T09:05:40.697Z",
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "F:\\FPT University\\Semester 8\\PRN231\\PE\\PRN231_PE_SU24_572033\\Given\\Q1\\Controller\\CourseController.cs",
+              "RelativeDocumentMoniker": "Q1\\Controller\\CourseController.cs",
+              "ToolTip": "F:\\FPT University\\Semester 8\\PRN231\\PE\\PRN231_PE_SU24_572033\\Given\\Q1\\Controller\\CourseController.cs",
+              "RelativeToolTip": "Q1\\Controller\\CourseController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:19:21.042Z",
               "EditorCaption": ""
             }
           ]

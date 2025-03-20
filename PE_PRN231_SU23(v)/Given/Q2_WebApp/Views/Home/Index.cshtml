@@ -1,0 +1,61 @@
+﻿@model IEnumerable<GivenAPIs.Models.Movie>
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<title>Movies</title>
+</head>
+<body>
+	<div style="display: flex;">
+		<div style="margin-right: 20px; border-right: 1px solid black; padding-right: 10px;">
+			@foreach (var studio in ViewBag.Studios)
+			{
+				<div><a href="@Url.Action("GetMoviesByStudio", "Home", new {studioId = studio.StudioId})">@studio.StudioName</a></div>
+			}
+		</div>
+
+		<div>
+			<form method="post" asp-action="AddMovie">
+				<div>
+					<label>MovieId</label>
+					<input type="text" name="MovieId" value="" />
+				</div>
+				<div>
+					<label>Title</label>
+					<input type="text" name="Title" value="" />
+				</div>
+				<div>
+					<label>Studio</label>
+					<select name="StudioId">
+						<@foreach (var studio in ViewBag.Studios)
+						{
+							<option value="@studio.StudioId">@studio.StudioName</option>
+						}
+					</select>
+				</div>
+				<button type="submit">Add</button>
+			</form>
+
+			<h2>List Movies</h2>
+			<table border="1" cellpadding="5">
+				<thead>
+					<tr>
+						<th>MovieId</th>
+						<th>Title</th>
+					</tr>
+				</thead>
+				<tbody>
+					@foreach (var movie in Model)
+					{
+						<tr>
+							<td>@movie.MovieId</td>
+							<td>@movie.Title</td>
+						</tr>
+					}
+				</tbody>
+			</table>
+		</div>
+	</div>
+</body>
+</html>
