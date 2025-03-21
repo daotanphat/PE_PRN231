@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "J524HvoTr1dgGfxeVJhcOgMNMah7u+jYXmWLM8+bO5Q=",
+  "Source": "GivenAPI_SU24",
+  "BasePath": "_content/GivenAPI_SU24",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

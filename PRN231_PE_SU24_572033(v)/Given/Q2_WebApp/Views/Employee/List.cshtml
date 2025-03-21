@@ -1,0 +1,113 @@
+﻿@model GivenAPI_SU24.Employee
+@{
+	ViewData["Title"] = "Employee";
+}
+
+<div class="container mt-4">
+	<form action="/Employee/AddEmployee" method="post">
+		<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+		<div class="mb-3 row">
+			<label class="col-sm-2 col-form-label">EmployeeId</label>
+			<div class="col-sm-6">
+				<input asp-for="EmployeeId" class="form-control" required/>
+				<span asp-validation-for="EmployeeId" class="text-danger"></span>
+			</div>
+		</div>
+
+		<div class="mb-3 row">
+			<label class="col-sm-2 col-form-label">Name</label>
+			<div class="col-sm-6">
+				<input asp-for="Name" class="form-control" required />
+				<span asp-validation-for="Name" class="text-danger"></span>
+			</div>
+		</div>
+
+		<div class="mb-3 row">
+			<label class="col-sm-2 col-form-label">Gender</label>
+			<div class="col-sm-6">
+				<div class="form-check form-check-inline">
+					<input asp-for="Gender" class="form-check-input" type="radio" value="Male" name="Gender" checked />
+					<label class="form-check-label">Male</label>
+				</div>
+				<div class="form-check form-check-inline">
+					<input asp-for="Gender" class="form-check-input" type="radio" value="Female" name="Gender" />
+					<label class="form-check-label">Female</label>
+				</div>
+				<span asp-validation-for="Gender" class="text-danger"></span>
+			</div>
+		</div>
+
+		<div class="mb-3 row">
+			<label class="col-sm-2 col-form-label">Dob</label>
+			<div class="col-sm-6">
+				<input type="date" name="DobDate" class="form-control" required />
+			</div>
+		</div>
+
+		<div class="mb-3 row">
+			<label class="col-sm-2 col-form-label">Position</label>
+			<div class="col-sm-6">
+				<input asp-for="Position" class="form-control" required />
+				<span asp-validation-for="Position" class="text-danger"></span>
+			</div>
+		</div>
+
+		<div class="mb-3 row">
+			<div class="col-sm-2">Is Fulltime</div>
+			<div class="col-sm-6">
+				<div class="form-check">
+					<input asp-for="IsFullTime" class="form-check-input" type="checkbox" />
+					<span asp-validation-for="IsFullTime" class="text-danger"></span>
+				</div>
+			</div>
+		</div>
+
+		<div class="mb-3 row">
+			<div class="col-sm-2">
+				<button type="submit" class="btn btn-primary">Add New</button>
+			</div>
+		</div>
+	</form>
+
+	@section Scripts {
+		<partial name="_ValidationScriptsPartial" />
+	}
+
+	@if (ViewBag.Message != null)
+	{
+		<div class="alert alert-success">@ViewBag.Message</div>
+	}
+	@if (ViewBag.Error != null)
+	{
+		<div class="alert alert-danger">@ViewBag.Error</div>
+	}
+
+</div>
+
+
+<table class="table table-bordered table-striped">
+	<thead class="thead-light">
+		<tr>
+			<th scope="col">EmplooyeeId</th>
+			<th scope="col">EmployeeName</th>
+			<th scope="col">Gender</th>
+			<th scope="col">Dob</th>
+			<th scope="col">Position</th>
+			<th scope="col">IsFullTime</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var employee in ViewBag.Employees)
+		{
+			<tr>
+				<td scope="row">@employee.EmployeeId</td>
+				<td scope="row">@employee.Name</td>
+				<td scope="row">@employee.Gender</td>
+				<td scope="row">@($"{employee.Dob.Month} / {employee.Dob.Day} / {employee.Dob.Year}")</td>
+				<td scope="row">@employee.Position</td>
+				<td scope="row">@employee.IsFullTime</td>
+			</tr>
+		}
+	</tbody>
+</table>

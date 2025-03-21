@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "GivenAPI_SU24\\GivenAPI_SU24.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Q2_WebApp\\Q2_WebApp.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
